@@ -42,11 +42,11 @@ npm run lint
 ## Technologies Used
 
 - Next.js
-- TypeScript
+- Django
 - Tailwind CSS
 - Radix UI
 - Framer Motion
-- EmailJS
+
 
 ## Contributing
 
