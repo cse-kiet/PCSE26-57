@@ -47,7 +47,3 @@ npm run lint
 - Radix UI
 - Framer Motion
 
-
-## Contributing
-
-Feel free to contribute by opening issues or pull requests.
